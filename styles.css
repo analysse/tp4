@@ -77,6 +77,10 @@ body {
   text-align: center;
   color: #7C1616;
 }
+
+div{
+  display: block;
+}
 @media screen and (orientation: portrait) and (max-width: 575px) {
   #columns {
     padding: 1vh 3vh 3vh 3vh;
@@ -84,6 +88,14 @@ body {
   }
   #titleBanner {
     height: 50vh;
+  }
+  #footer{
+    text-align: center;
+    font-size: 10px;
+  }
+  #questions{
+    text-align: center; 
+     font-size: 15px;
   }
   
 }
