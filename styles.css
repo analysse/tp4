@@ -1,0 +1,40 @@
+h1 {
+  font-family: Arial;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+ul, ol {
+  margin-top: 0;
+  font-family: Helvetica;
+  font-size: 14px;
+  color: #1F1F1F;
+}
+
+.copyright {
+  font-family: Arial;
+  font-size: 9px;
+  font-style: italic;
+}
+
+.title{
+  font-family: Sofia;
+  color: #7C1616;
+  text-shadow: 3px 3px 3px #C8C7C3;
+}
+
+.heading{
+  font-family: Sofia;
+  color: #A54A4A;
+  font-size: 20px;
+}
+
+body{
+  background-color: #EAE7DE;
+}
+
+.bolded{
+  font-weight: bold;
+}
